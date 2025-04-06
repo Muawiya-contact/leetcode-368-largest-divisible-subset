@@ -18,6 +18,6 @@ If there are multiple solutions, return any of them.
 ## 📥 Example Inputs and Outputs
 
 ### ✅ Example 1:
-####Input: nums = [1, 2, 3] 
-####Output: [1, 2] 
-####Explanation: [1, 3] is also accepted.
+#### Input: nums = [1, 2, 3] 
+#### Output: [1, 2] 
+#### Explanation: [1, 3] is also accepted.
