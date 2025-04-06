@@ -53,9 +53,9 @@ Space Complexity: `O(n)`
 ## 🧾 File Structure
 
 leetcode-368-largest-divisible-subset
-# README.md 
-# main.py
-# Python code with comments
+### README.md 
+### main.py
+### Python code with comments
 
 ---
 
